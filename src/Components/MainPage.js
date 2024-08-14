@@ -290,7 +290,7 @@ function App() {
               <p className="header-text">Merchants / Customer Name</p>
             </div>
             <br />
-            <div style={{ display: 'flex', flexDirection: 'row', marginLeft: '9px' }}>
+            <div style={{ display: 'flex', flexDirection: 'row' }}>
               <h2 style={{ flexDirection: 'column' }}><b>Customer Name</b></h2>
               <h4 className='chennai'>
                 <img src={chennai} alt='chennai'  /><b>Chennai</b> 
