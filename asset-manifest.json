@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/merchantsPayments/static/css/main.5de4b3ac.css",
+    "main.css": "/merchantsPayments/static/css/main.06d83881.css",
     "main.js": "/merchantsPayments/static/js/main.e1807bbe.js",
     "static/js/453.78b18427.chunk.js": "/merchantsPayments/static/js/453.78b18427.chunk.js",
     "index.html": "/merchantsPayments/index.html",
-    "main.5de4b3ac.css.map": "/merchantsPayments/static/css/main.5de4b3ac.css.map",
+    "main.06d83881.css.map": "/merchantsPayments/static/css/main.06d83881.css.map",
     "main.e1807bbe.js.map": "/merchantsPayments/static/js/main.e1807bbe.js.map",
     "453.78b18427.chunk.js.map": "/merchantsPayments/static/js/453.78b18427.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5de4b3ac.css",
+    "static/css/main.06d83881.css",
     "static/js/main.e1807bbe.js"
   ]
 }
